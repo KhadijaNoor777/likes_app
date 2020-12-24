@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from 'react';
+//import Hello from './SayHello';
+import Tweet from './Tweet'
 
 function App() {
+
+  
+
+  
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      
+      
+      {/* <h1>Hello React</h1> */}
+      <Tweet name='Iron Man' msg='I am the BEST'/>
+      <Tweet name='Thor' msg='I am the strongest avenger'/>
+      <Tweet name='Spider Man' msg='I am the youngest avenger'/>
+      <Tweet name='Hulk' msg='Smash you!'/>
+      {/* <h1>App Component</h1>
+      <Hello /> */}
     </div>
   );
 }
