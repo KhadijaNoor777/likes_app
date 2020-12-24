@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/likes_app/static/css/main.9ec50d69.chunk.css",
+    "main.js": "/likes_app/static/js/main.f85bb849.chunk.js",
+    "main.js.map": "/likes_app/static/js/main.f85bb849.chunk.js.map",
+    "runtime-main.js": "/likes_app/static/js/runtime-main.074f2e70.js",
+    "runtime-main.js.map": "/likes_app/static/js/runtime-main.074f2e70.js.map",
+    "static/js/2.9cdc1523.chunk.js": "/likes_app/static/js/2.9cdc1523.chunk.js",
+    "static/js/2.9cdc1523.chunk.js.map": "/likes_app/static/js/2.9cdc1523.chunk.js.map",
+    "static/js/3.95e51318.chunk.js": "/likes_app/static/js/3.95e51318.chunk.js",
+    "static/js/3.95e51318.chunk.js.map": "/likes_app/static/js/3.95e51318.chunk.js.map",
+    "index.html": "/likes_app/index.html",
+    "static/css/main.9ec50d69.chunk.css.map": "/likes_app/static/css/main.9ec50d69.chunk.css.map",
+    "static/js/2.9cdc1523.chunk.js.LICENSE.txt": "/likes_app/static/js/2.9cdc1523.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.074f2e70.js",
+    "static/js/2.9cdc1523.chunk.js",
+    "static/css/main.9ec50d69.chunk.css",
+    "static/js/main.f85bb849.chunk.js"
+  ]
+}
